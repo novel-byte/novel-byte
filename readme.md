@@ -73,10 +73,9 @@
 </picture>
 
 <!-- Spotify Now Playing -->
-<h2>🎵 Now Playing</h2>
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31z3f33o3su4ruimukmeqwasneom&redirect=true&theme=novatorem" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31stdb326lxvugvnjlqrfap7sfli&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31stdb326lxvugvnjlqrfap7sfli&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false">
   </a>
 </p>
 
